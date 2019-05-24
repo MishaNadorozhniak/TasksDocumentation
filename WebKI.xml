@@ -1,0 +1,722 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Age property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson8_Person_Age.htm" />
+  <HelpKINode Title="AgeIs method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task1_Person_AgeIs.htm" />
+  <HelpKINode Title="April enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+  <HelpKINode Title="Area method">
+    <HelpKINode Title="Circle3.Area Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle3_Area.htm" />
+    <HelpKINode Title="Circle4.Area Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle4_Area.htm" />
+    <HelpKINode Title="Rectangle1.Area Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle1_Area.htm" />
+    <HelpKINode Title="Rectangle4.Area Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle4_Area.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Area property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2_Area.htm" />
+  <HelpKINode Title="ArrayCalculator class">
+    <HelpKINode Title="ArrayCalculator Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ArrayCalculator.ArrayCalculator constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator__ctor.htm" />
+  <HelpKINode Title="ArrayCalculator.Div method" Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Div.htm" />
+  <HelpKINode Title="ArrayCalculator.Mul method" Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Mul.htm" />
+  <HelpKINode Title="ArrayCalculator.Sub method" Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Sub.htm" />
+  <HelpKINode Title="ArrayCalculator.Sum method" Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Sum.htm" />
+  <HelpKINode Title="August enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+  <HelpKINode Title="BinaryDeserialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_BinaryDeserialization.htm" />
+  <HelpKINode Title="BinarySerialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_BinarySerialization.htm" />
+  <HelpKINode Title="Black enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Colors.htm" />
+  <HelpKINode Title="BubbleSort class">
+    <HelpKINode Title="BubbleSort Class" Url="html/T_Lesson3_Compare_BubbleSort.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Lesson3_Compare_BubbleSort__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Lesson3_Compare_BubbleSort.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BubbleSort.BubbleSort constructor" Url="html/M_Lesson3_Compare_BubbleSort__ctor.htm" />
+  <HelpKINode Title="BubbleSort.Sort method" Url="html/M_Lesson3_Compare_BubbleSort_Sort.htm" />
+  <HelpKINode Title="BuildTwoInOne method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_BuildTwoInOne.htm" />
+  <HelpKINode Title="Calculator class">
+    <HelpKINode Title="Calculator Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson16_Calculator.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson16_Calculator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Calculator.Calculator constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator__ctor.htm" />
+  <HelpKINode Title="Calculator.Div method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator_Div.htm" />
+  <HelpKINode Title="Calculator.Mul method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator_Mul.htm" />
+  <HelpKINode Title="Calculator.Sub method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator_Sub.htm" />
+  <HelpKINode Title="Calculator.Sum method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator_Sum.htm" />
+  <HelpKINode Title="Car class">
+    <HelpKINode Title="Car Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson12_Car.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson12_Car__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_TestProject_TaskLibrary_Tasks_Lesson12_Car.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson12_Car.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TestProject_TaskLibrary_Tasks_Lesson12_Car.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Car.Car constructor" Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson12_Car__ctor.htm" />
+  <HelpKINode Title="Car.Consumption property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Consumption.htm" />
+  <HelpKINode Title="Car.Drive property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Drive.htm" />
+  <HelpKINode Title="Car.Drives field" Url="html/F_TestProject_TaskLibrary_Tasks_Lesson12_Car_Drives.htm" />
+  <HelpKINode Title="Car.Id property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Id.htm" />
+  <HelpKINode Title="Car.Price property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Price.htm" />
+  <HelpKINode Title="Car.Seats property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Seats.htm" />
+  <HelpKINode Title="Car.Show method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Car_Show.htm" />
+  <HelpKINode Title="Circle3 class">
+    <HelpKINode Title="Circle3 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Circle3.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle3__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Circle3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Circle3.Area method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle3_Area.htm" />
+  <HelpKINode Title="Circle3.Circle3 constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle3__ctor.htm" />
+  <HelpKINode Title="Circle3.CircleLength method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle3_CircleLength.htm" />
+  <HelpKINode Title="Circle4 class">
+    <HelpKINode Title="Circle4 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Circle4.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Circle4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Circle4.Area method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle4_Area.htm" />
+  <HelpKINode Title="Circle4.CircleLength method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle4_CircleLength.htm" />
+  <HelpKINode Title="CircleLength method">
+    <HelpKINode Title="Circle3.CircleLength Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle3_CircleLength.htm" />
+    <HelpKINode Title="Circle4.CircleLength Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle4_CircleLength.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Colors enumeration" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Colors.htm" />
+  <HelpKINode Title="Compare class">
+    <HelpKINode Title="Compare Class" Url="html/T_Lesson3_Compare_Compare.htm" />
+    <HelpKINode Title="Compare Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Compare_Compare.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Compare_Compare__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Lesson3_Compare_Compare__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson4_Compare_Compare.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Lesson3_Compare_Compare.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Compare.Compare constructor">
+    <HelpKINode Title="Compare Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Compare_Compare__ctor.htm" />
+    <HelpKINode Title="Compare Constructor " Url="html/M_Lesson3_Compare_Compare__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Compare.Run method">
+    <HelpKINode Title="Compare.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Compare_Compare_Run.htm" />
+    <HelpKINode Title="Compare.Run Method " Url="html/M_Lesson3_Compare_Compare_Run.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ComplexCartesian method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_ComplexCartesian.htm" />
+  <HelpKINode Title="ComplexNumber class">
+    <HelpKINode Title="fields" Url="html/Fields_T_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber.htm" />
+    <HelpKINode Title="operators" Url="html/Operators_T_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ComplexPolar method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_ComplexPolar.htm" />
+  <HelpKINode Title="Consumption property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Consumption.htm" />
+  <HelpKINode Title="Container class">
+    <HelpKINode Title="Container Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Container.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Container__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_TestProject_TaskLibrary_Tasks_Lesson8_Container.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson8_Container.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Container.Container constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Container__ctor.htm" />
+  <HelpKINode Title="Container.Persons field" Url="html/F_TestProject_TaskLibrary_Tasks_Lesson8_Container_Persons.htm" />
+  <HelpKINode Title="Create method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Create.htm" />
+  <HelpKINode Title="December enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+  <HelpKINode Title="DisplayPage method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4_DisplayPage.htm" />
+  <HelpKINode Title="Div method">
+    <HelpKINode Title="ArrayCalculator.Div Method " Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Div.htm" />
+    <HelpKINode Title="Calculator.Div Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator_Div.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Division operator" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_op_Division.htm" />
+  <HelpKINode Title="Draw method">
+    <HelpKINode Title="Figure.Draw Method " Url="html/M_Lesson3_Figure_Draw.htm" />
+    <HelpKINode Title="Rectangle.Draw Method " Url="html/M_Lesson3_Rectangle_Draw.htm" />
+    <HelpKINode Title="Square.Draw Method " Url="html/M_Lesson3_Square_Draw.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Drive property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Drive.htm" />
+  <HelpKINode Title="Drives field" Url="html/F_TestProject_TaskLibrary_Tasks_Lesson12_Car_Drives.htm" />
+  <HelpKINode Title="Extension class">
+    <HelpKINode Title="Extension Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Extension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Extension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Extension.SortedEnum method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Extension_SortedEnum.htm" />
+  <HelpKINode Title="February enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+  <HelpKINode Title="Figure class">
+    <HelpKINode Title="Figure Class" Url="html/T_Lesson3_Figure.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Lesson3_Figure__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Lesson3_Figure.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Lesson3_Figure.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Figure.Draw method" Url="html/M_Lesson3_Figure_Draw.htm" />
+  <HelpKINode Title="Figure.Figure constructor" Url="html/M_Lesson3_Figure__ctor.htm" />
+  <HelpKINode Title="Figure.X property" Url="html/P_Lesson3_Figure_X.htm" />
+  <HelpKINode Title="Figure.Y property" Url="html/P_Lesson3_Figure_Y.htm" />
+  <HelpKINode Title="GetValue method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task2_GetValue.htm" />
+  <HelpKINode Title="Green enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Colors.htm" />
+  <HelpKINode Title="Height property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ISize_Height.htm" />
+  <HelpKINode Title="ICoordinates interface">
+    <HelpKINode Title="ICoordinates Interface" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICoordinates.X1 property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates_X1.htm" />
+  <HelpKINode Title="ICoordinates.X2 property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates_X2.htm" />
+  <HelpKINode Title="ICoordinates.Y1 property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates_Y1.htm" />
+  <HelpKINode Title="ICoordinates.Y2 property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates_Y2.htm" />
+  <HelpKINode Title="Id property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Id.htm" />
+  <HelpKINode Title="IFigure(Of T) interface">
+    <HelpKINode Title="IFigure(T) Interface" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFigure(Of T).BuildTwoInOne method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_BuildTwoInOne.htm" />
+  <HelpKINode Title="IFigure(Of T).Create method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Create.htm" />
+  <HelpKINode Title="IFigure(Of T).Intersection method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Intersection.htm" />
+  <HelpKINode Title="IFigure(Of T).Move method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Move.htm" />
+  <HelpKINode Title="IFigure(Of T).Show method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Show.htm" />
+  <HelpKINode Title="IFigure&lt;T&gt; interface">
+    <HelpKINode Title="IFigure(T) Interface" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFigure&lt;T&gt;.BuildTwoInOne method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_BuildTwoInOne.htm" />
+  <HelpKINode Title="IFigure&lt;T&gt;.Create method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Create.htm" />
+  <HelpKINode Title="IFigure&lt;T&gt;.Intersection method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Intersection.htm" />
+  <HelpKINode Title="IFigure&lt;T&gt;.Move method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Move.htm" />
+  <HelpKINode Title="IFigure&lt;T&gt;.Show method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Show.htm" />
+  <HelpKINode Title="Imaginary field" Url="html/F_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_Imaginary.htm" />
+  <HelpKINode Title="In method" Url="html/M_TestProject_TaskLibrary_Tasks_IO_In.htm" />
+  <HelpKINode Title="Intersection method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Intersection.htm" />
+  <HelpKINode Title="IO class">
+    <HelpKINode Title="IO Class" Url="html/T_TestProject_TaskLibrary_Tasks_IO.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_IO__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_IO.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IO.In method" Url="html/M_TestProject_TaskLibrary_Tasks_IO_In.htm" />
+  <HelpKINode Title="IO.IO constructor" Url="html/M_TestProject_TaskLibrary_Tasks_IO__ctor.htm" />
+  <HelpKINode Title="IO.Out method" Url="html/M_TestProject_TaskLibrary_Tasks_IO_Out.htm" />
+  <HelpKINode Title="IO.OutLn method" Url="html/M_TestProject_TaskLibrary_Tasks_IO_OutLn.htm" />
+  <HelpKINode Title="ISize interface">
+    <HelpKINode Title="ISize Interface" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_ISize.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_ISize.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TestProject_TaskLibrary_Tasks_Lesson2_ISize.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISize.Height property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ISize_Height.htm" />
+  <HelpKINode Title="ISize.Perimeter method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_ISize_Perimeter.htm" />
+  <HelpKINode Title="ISize.Width property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ISize_Width.htm" />
+  <HelpKINode Title="January enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+  <HelpKINode Title="JsonDeserialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_JsonDeserialization.htm" />
+  <HelpKINode Title="JsonSerialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_JsonSerialization.htm" />
+  <HelpKINode Title="July enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+  <HelpKINode Title="June enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+  <HelpKINode Title="Lesson3 namespace" Url="html/N_Lesson3.htm" />
+  <HelpKINode Title="Lesson3.Compare namespace" Url="html/N_Lesson3_Compare.htm" />
+  <HelpKINode Title="Lesson3.Compare.BubbleSort class" Url="html/T_Lesson3_Compare_BubbleSort.htm" />
+  <HelpKINode Title="Lesson3.Compare.Compare class" Url="html/T_Lesson3_Compare_Compare.htm" />
+  <HelpKINode Title="Lesson3.Compare.OptimizedBubbleSort class" Url="html/T_Lesson3_Compare_OptimizedBubbleSort.htm" />
+  <HelpKINode Title="Lesson3.Figure class" Url="html/T_Lesson3_Figure.htm" />
+  <HelpKINode Title="Lesson3.Rectangle class" Url="html/T_Lesson3_Rectangle.htm" />
+  <HelpKINode Title="Lesson3.Square class" Url="html/T_Lesson3_Square.htm" />
+  <HelpKINode Title="Lesson3.Task1_4 namespace" Url="html/N_Lesson3_Task1_4.htm" />
+  <HelpKINode Title="Lesson3.Task1_4.Task1_4 class" Url="html/T_Lesson3_Task1_4_Task1_4.htm" />
+  <HelpKINode Title="Lesson7 class">
+    <HelpKINode Title="Lesson7 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson7_Lesson7.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_Lesson7__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson7_Lesson7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Lesson7.Lesson7 constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_Lesson7__ctor.htm" />
+  <HelpKINode Title="Lesson7.Run method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_Lesson7_Run.htm" />
+  <HelpKINode Title="LongRange enumeration" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_LongRange.htm" />
+  <HelpKINode Title="March enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+  <HelpKINode Title="Max enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_LongRange.htm" />
+  <HelpKINode Title="May enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+  <HelpKINode Title="Min enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_LongRange.htm" />
+  <HelpKINode Title="Month enumeration" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+  <HelpKINode Title="Move method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Move.htm" />
+  <HelpKINode Title="Mul method">
+    <HelpKINode Title="ArrayCalculator.Mul Method " Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Mul.htm" />
+    <HelpKINode Title="Calculator.Mul Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator_Mul.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Multiply operator" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_op_Multiply.htm" />
+  <HelpKINode Title="Name property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson8_Person_Name.htm" />
+  <HelpKINode Title="November enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+  <HelpKINode Title="October enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+  <HelpKINode Title="OptimizedBubbleSort class">
+    <HelpKINode Title="OptimizedBubbleSort Class" Url="html/T_Lesson3_Compare_OptimizedBubbleSort.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Lesson3_Compare_OptimizedBubbleSort__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Lesson3_Compare_OptimizedBubbleSort.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OptimizedBubbleSort.OptimizedBubbleSort constructor" Url="html/M_Lesson3_Compare_OptimizedBubbleSort__ctor.htm" />
+  <HelpKINode Title="OptimizedBubbleSort.Sort method" Url="html/M_Lesson3_Compare_OptimizedBubbleSort_Sort.htm" />
+  <HelpKINode Title="Out method" Url="html/M_TestProject_TaskLibrary_Tasks_IO_Out.htm" />
+  <HelpKINode Title="OutLn method" Url="html/M_TestProject_TaskLibrary_Tasks_IO_OutLn.htm" />
+  <HelpKINode Title="Perimeter method">
+    <HelpKINode Title="ISize.Perimeter Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_ISize_Perimeter.htm" />
+    <HelpKINode Title="Rectangle.Perimeter Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Rectangle_Perimeter.htm" />
+    <HelpKINode Title="Rectangle1.Perimeter Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle1_Perimeter.htm" />
+    <HelpKINode Title="Rectangle4.Perimeter Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle4_Perimeter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Perimeter property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2_Perimeter.htm" />
+  <HelpKINode Title="Person class">
+    <HelpKINode Title="Person Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Person.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Person__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson8_Person.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TestProject_TaskLibrary_Tasks_Lesson8_Person.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Person structure">
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Task1_Person.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Person.Age property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson8_Person_Age.htm" />
+  <HelpKINode Title="Person.Name property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson8_Person_Name.htm" />
+  <HelpKINode Title="Person.Person constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Person__ctor.htm" />
+  <HelpKINode Title="Person.PhoneNumber property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson8_Person_PhoneNumber.htm" />
+  <HelpKINode Title="Persons field" Url="html/F_TestProject_TaskLibrary_Tasks_Lesson8_Container_Persons.htm" />
+  <HelpKINode Title="PhoneNumber property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson8_Person_PhoneNumber.htm" />
+  <HelpKINode Title="Price property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Price.htm" />
+  <HelpKINode Title="Purple enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Colors.htm" />
+  <HelpKINode Title="Real field" Url="html/F_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_Real.htm" />
+  <HelpKINode Title="Rectangle class">
+    <HelpKINode Title="Rectangle Class" Url="html/T_Lesson3_Rectangle.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Lesson3_Rectangle__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Lesson3_Rectangle.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Lesson3_Rectangle.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Rectangle structure">
+    <HelpKINode Title="Rectangle Structure" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Rectangle.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Rectangle__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Rectangle.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Rectangle.Draw method" Url="html/M_Lesson3_Rectangle_Draw.htm" />
+  <HelpKINode Title="Rectangle.Perimeter method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Rectangle_Perimeter.htm" />
+  <HelpKINode Title="Rectangle.Rectangle constructor">
+    <HelpKINode Title="Rectangle Constructor " Url="html/M_Lesson3_Rectangle__ctor.htm" />
+    <HelpKINode Title="Rectangle Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Rectangle__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Rectangle1 class">
+    <HelpKINode Title="Rectangle1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Rectangle1.Area method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle1_Area.htm" />
+  <HelpKINode Title="Rectangle1.Perimeter method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle1_Perimeter.htm" />
+  <HelpKINode Title="Rectangle1.Rectangle1 constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle1__ctor.htm" />
+  <HelpKINode Title="Rectangle2 class">
+    <HelpKINode Title="Rectangle2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Rectangle2.Area property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2_Area.htm" />
+  <HelpKINode Title="Rectangle2.Perimeter property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2_Perimeter.htm" />
+  <HelpKINode Title="Rectangle2.Rectangle2 constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2__ctor.htm" />
+  <HelpKINode Title="Rectangle4 class">
+    <HelpKINode Title="Rectangle4 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle4.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Rectangle4.Area method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle4_Area.htm" />
+  <HelpKINode Title="Rectangle4.Perimeter method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle4_Perimeter.htm" />
+  <HelpKINode Title="Recursion method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task1_Recursion.htm" />
+  <HelpKINode Title="Red enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Colors.htm" />
+  <HelpKINode Title="Remove method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4_Remove.htm" />
+  <HelpKINode Title="Rev method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4_Rev.htm" />
+  <HelpKINode Title="Run method">
+    <HelpKINode Title="Compare.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Compare_Compare_Run.htm" />
+    <HelpKINode Title="Compare.Run Method " Url="html/M_Lesson3_Compare_Compare_Run.htm" />
+    <HelpKINode Title="Lesson7.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_Lesson7_Run.htm" />
+    <HelpKINode Title="Task.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Task_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson11_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson13_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson18_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson17_Task1_Run.htm" />
+    <HelpKINode Title="Task1_2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson5_Task1_2_Run.htm" />
+    <HelpKINode Title="Task1_4.Run Method " Url="html/M_Lesson3_Task1_4_Task1_4_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson11_Task2_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task2_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task2_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task2_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task2_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task2_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Task2_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson13_Task2_Run.htm" />
+    <HelpKINode Title="Task3.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task3_Run.htm" />
+    <HelpKINode Title="Task3.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task3_Run.htm" />
+    <HelpKINode Title="Task3.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task3_Run.htm" />
+    <HelpKINode Title="Task3.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task3_Run.htm" />
+    <HelpKINode Title="Task3.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson5_Task3_Run.htm" />
+    <HelpKINode Title="Task4.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4_Run.htm" />
+    <HelpKINode Title="Task4.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task4_Run.htm" />
+    <HelpKINode Title="Task4.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task4_Run.htm" />
+    <HelpKINode Title="Task4.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task4_Run.htm" />
+    <HelpKINode Title="Task5.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task5_Run.htm" />
+    <HelpKINode Title="Task5.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task5_Run.htm" />
+    <HelpKINode Title="Task5.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task5_Run.htm" />
+    <HelpKINode Title="Task5.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_Run.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Seats property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Seats.htm" />
+  <HelpKINode Title="September enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+  <HelpKINode Title="Serialization(Of T) class">
+    <HelpKINode Title="Serialization(T) Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Serialization(Of T).BinaryDeserialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_BinaryDeserialization.htm" />
+  <HelpKINode Title="Serialization(Of T).BinarySerialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_BinarySerialization.htm" />
+  <HelpKINode Title="Serialization(Of T).JsonDeserialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_JsonDeserialization.htm" />
+  <HelpKINode Title="Serialization(Of T).JsonSerialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_JsonSerialization.htm" />
+  <HelpKINode Title="Serialization(Of T).Serialization constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1__ctor.htm" />
+  <HelpKINode Title="Serialization(Of T).XmlDeserialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_XmlDeserialization.htm" />
+  <HelpKINode Title="Serialization(Of T).XmlSerialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_XmlSerialization.htm" />
+  <HelpKINode Title="Serialization&lt;T&gt; class">
+    <HelpKINode Title="Serialization(T) Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Serialization&lt;T&gt;.BinaryDeserialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_BinaryDeserialization.htm" />
+  <HelpKINode Title="Serialization&lt;T&gt;.BinarySerialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_BinarySerialization.htm" />
+  <HelpKINode Title="Serialization&lt;T&gt;.JsonDeserialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_JsonDeserialization.htm" />
+  <HelpKINode Title="Serialization&lt;T&gt;.JsonSerialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_JsonSerialization.htm" />
+  <HelpKINode Title="Serialization&lt;T&gt;.Serialization constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1__ctor.htm" />
+  <HelpKINode Title="Serialization&lt;T&gt;.XmlDeserialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_XmlDeserialization.htm" />
+  <HelpKINode Title="Serialization&lt;T&gt;.XmlSerialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_XmlSerialization.htm" />
+  <HelpKINode Title="Show method">
+    <HelpKINode Title="Car.Show Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Car_Show.htm" />
+    <HelpKINode Title="IFigure(T).Show Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Show.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Sort method">
+    <HelpKINode Title="BubbleSort.Sort Method " Url="html/M_Lesson3_Compare_BubbleSort_Sort.htm" />
+    <HelpKINode Title="OptimizedBubbleSort.Sort Method " Url="html/M_Lesson3_Compare_OptimizedBubbleSort_Sort.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SortedEnum method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Extension_SortedEnum.htm" />
+  <HelpKINode Title="Square class">
+    <HelpKINode Title="Square Class" Url="html/T_Lesson3_Square.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Lesson3_Square__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Lesson3_Square.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Lesson3_Square.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Square.Draw method" Url="html/M_Lesson3_Square_Draw.htm" />
+  <HelpKINode Title="Square.Square constructor" Url="html/M_Lesson3_Square__ctor.htm" />
+  <HelpKINode Title="Sub method">
+    <HelpKINode Title="ArrayCalculator.Sub Method " Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Sub.htm" />
+    <HelpKINode Title="Calculator.Sub Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator_Sub.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Sum method">
+    <HelpKINode Title="ArrayCalculator.Sum Method " Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Sum.htm" />
+    <HelpKINode Title="Calculator.Sum Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator_Sum.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task class">
+    <HelpKINode Title="Task Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson12_Task.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Task__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson12_Task.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task.Run method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Task_Run.htm" />
+  <HelpKINode Title="Task.Task constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Task__ctor.htm" />
+  <HelpKINode Title="Task1 class">
+    <HelpKINode Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task1.htm" />
+    <HelpKINode Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task1.htm" />
+    <HelpKINode Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson17_Task1.htm" />
+    <HelpKINode Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson13_Task1.htm" />
+    <HelpKINode Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson18_Task1.htm" />
+    <HelpKINode Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson11_Task1.htm" />
+    <HelpKINode Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Task1.htm" />
+    <HelpKINode Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson16_Task1.htm" />
+    <HelpKINode Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task1.htm" />
+    <HelpKINode Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson10_Task1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson11_Task1__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task1__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson18_Task1__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task1__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task1__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson17_Task1__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson13_Task1__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task1__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task1__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Task1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson4_Task1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson13_Task1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson17_Task1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson11_Task1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Task1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson16_Task1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson8_Task1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson10_Task1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Task1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson18_Task1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task1.Person structure">
+    <HelpKINode Title="Task1.Person Structure" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task1_Person.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task1_Person__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task1.Person.AgeIs method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task1_Person_AgeIs.htm" />
+  <HelpKINode Title="Task1.Person.Person constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task1_Person__ctor.htm" />
+  <HelpKINode Title="Task1.Recursion method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task1_Recursion.htm" />
+  <HelpKINode Title="Task1.Run method">
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson13_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson18_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson17_Task1_Run.htm" />
+    <HelpKINode Title="Task1.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson11_Task1_Run.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task1.Task1 constructor">
+    <HelpKINode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson11_Task1__ctor.htm" />
+    <HelpKINode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson18_Task1__ctor.htm" />
+    <HelpKINode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson13_Task1__ctor.htm" />
+    <HelpKINode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task1__ctor.htm" />
+    <HelpKINode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Task1__ctor.htm" />
+    <HelpKINode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson17_Task1__ctor.htm" />
+    <HelpKINode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task1__ctor.htm" />
+    <HelpKINode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task1__ctor.htm" />
+    <HelpKINode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task1__ctor.htm" />
+    <HelpKINode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task1__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task1_2 class">
+    <HelpKINode Title="Task1_2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson5_Task1_2.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson5_Task1_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson5_Task1_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task1_2.Run method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson5_Task1_2_Run.htm" />
+  <HelpKINode Title="Task1_2.Task1_2 constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson5_Task1_2__ctor.htm" />
+  <HelpKINode Title="Task1_4 class">
+    <HelpKINode Title="Task1_4 Class" Url="html/T_Lesson3_Task1_4_Task1_4.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Lesson3_Task1_4_Task1_4__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Lesson3_Task1_4_Task1_4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task1_4.Run method" Url="html/M_Lesson3_Task1_4_Task1_4_Run.htm" />
+  <HelpKINode Title="Task1_4.Task1_4 constructor" Url="html/M_Lesson3_Task1_4_Task1_4__ctor.htm" />
+  <HelpKINode Title="Task2 class">
+    <HelpKINode Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task2.htm" />
+    <HelpKINode Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson11_Task2.htm" />
+    <HelpKINode Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson13_Task2.htm" />
+    <HelpKINode Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Task2.htm" />
+    <HelpKINode Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson10_Task2.htm" />
+    <HelpKINode Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson16_Task2.htm" />
+    <HelpKINode Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task2.htm" />
+    <HelpKINode Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task2.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task2__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task2__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task2__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson11_Task2__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson13_Task2__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Task2__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task2__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Task2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson16_Task2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson13_Task2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson10_Task2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson4_Task2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Task2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson8_Task2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson11_Task2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task2.GetValue method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task2_GetValue.htm" />
+  <HelpKINode Title="Task2.Run method">
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task2_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task2_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task2_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson13_Task2_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task2_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson11_Task2_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task2_Run.htm" />
+    <HelpKINode Title="Task2.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Task2_Run.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task2.Task2 constructor">
+    <HelpKINode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task2__ctor.htm" />
+    <HelpKINode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task2__ctor.htm" />
+    <HelpKINode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task2__ctor.htm" />
+    <HelpKINode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task2__ctor.htm" />
+    <HelpKINode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson11_Task2__ctor.htm" />
+    <HelpKINode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson13_Task2__ctor.htm" />
+    <HelpKINode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task2__ctor.htm" />
+    <HelpKINode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Task2__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task3 class">
+    <HelpKINode Title="Task3 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task3.htm" />
+    <HelpKINode Title="Task3 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task3.htm" />
+    <HelpKINode Title="Task3 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson5_Task3.htm" />
+    <HelpKINode Title="Task3 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Task3.htm" />
+    <HelpKINode Title="Task3 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task3.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task3__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson5_Task3__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task3__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task3__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task3__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson5_Task3.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Task3.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson8_Task3.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson4_Task3.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Task3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task3.Run method">
+    <HelpKINode Title="Task3.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task3_Run.htm" />
+    <HelpKINode Title="Task3.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task3_Run.htm" />
+    <HelpKINode Title="Task3.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task3_Run.htm" />
+    <HelpKINode Title="Task3.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson5_Task3_Run.htm" />
+    <HelpKINode Title="Task3.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task3_Run.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task3.Task3 constructor">
+    <HelpKINode Title="Task3 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson5_Task3__ctor.htm" />
+    <HelpKINode Title="Task3 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task3__ctor.htm" />
+    <HelpKINode Title="Task3 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task3__ctor.htm" />
+    <HelpKINode Title="Task3 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task3__ctor.htm" />
+    <HelpKINode Title="Task3 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task3__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task4 class">
+    <HelpKINode Title="Task4 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Task4.htm" />
+    <HelpKINode Title="Task4 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task4.htm" />
+    <HelpKINode Title="Task4 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task4.htm" />
+    <HelpKINode Title="Task4 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task4.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task4__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task4__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task4__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson4_Task4.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson8_Task4.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Task4.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Task4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task4.DisplayPage method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4_DisplayPage.htm" />
+  <HelpKINode Title="Task4.Remove method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4_Remove.htm" />
+  <HelpKINode Title="Task4.Rev method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4_Rev.htm" />
+  <HelpKINode Title="Task4.Run method">
+    <HelpKINode Title="Task4.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task4_Run.htm" />
+    <HelpKINode Title="Task4.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4_Run.htm" />
+    <HelpKINode Title="Task4.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task4_Run.htm" />
+    <HelpKINode Title="Task4.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task4_Run.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task4.Task4 constructor">
+    <HelpKINode Title="Task4 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4__ctor.htm" />
+    <HelpKINode Title="Task4 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task4__ctor.htm" />
+    <HelpKINode Title="Task4 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task4__ctor.htm" />
+    <HelpKINode Title="Task4 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task4__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task5 class">
+    <HelpKINode Title="Task5 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task5.htm" />
+    <HelpKINode Title="Task5 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task5.htm" />
+    <HelpKINode Title="Task5 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson10_Task5.htm" />
+    <HelpKINode Title="Task5 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task5.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task5__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task5__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task5__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson10_Task5.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Task5.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson4_Task5.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Task5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task5.ComplexNumber class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber.htm" />
+  <HelpKINode Title="Task5.ComplexNumber.ComplexCartesian method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_ComplexCartesian.htm" />
+  <HelpKINode Title="Task5.ComplexNumber.ComplexPolar method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_ComplexPolar.htm" />
+  <HelpKINode Title="Task5.ComplexNumber.Division operator" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_op_Division.htm" />
+  <HelpKINode Title="Task5.ComplexNumber.Imaginary field" Url="html/F_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_Imaginary.htm" />
+  <HelpKINode Title="Task5.ComplexNumber.Multiply operator" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_op_Multiply.htm" />
+  <HelpKINode Title="Task5.ComplexNumber.Real field" Url="html/F_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_Real.htm" />
+  <HelpKINode Title="Task5.Run method">
+    <HelpKINode Title="Task5.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task5_Run.htm" />
+    <HelpKINode Title="Task5.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task5_Run.htm" />
+    <HelpKINode Title="Task5.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_Run.htm" />
+    <HelpKINode Title="Task5.Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task5_Run.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Task5.Task5 constructor">
+    <HelpKINode Title="Task5 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5__ctor.htm" />
+    <HelpKINode Title="Task5 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task5__ctor.htm" />
+    <HelpKINode Title="Task5 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task5__ctor.htm" />
+    <HelpKINode Title="Task5 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task5__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks namespace" Url="html/N_TestProject_TaskLibrary_Tasks.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.IO class" Url="html/T_TestProject_TaskLibrary_Tasks_IO.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson1 namespace" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson1.Circle3 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Circle3.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson1.Circle4 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Circle4.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson1.Rectangle1 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson1.Rectangle2 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson1.Rectangle4 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle4.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson1.Task1 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson1.Task2 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task2.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson1.Task3 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task3.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson1.Task4 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task4.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson1.Task5 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task5.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson1.Task5.ComplexNumber class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson10 namespace" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson10.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson10.Task1 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson10_Task1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson10.Task2 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson10_Task2.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson10.Task5 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson10_Task5.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson11 namespace" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson11.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson11.Task1 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson11_Task1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson11.Task2 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson11_Task2.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson12 namespace" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson12.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson12.Car class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson12_Car.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson12.Serialization(Of T) class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson12.Serialization&lt;T&gt; class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson12.Task class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson12_Task.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson13 namespace" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson13.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson13.Task1 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson13_Task1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson13.Task2 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson13_Task2.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson16 namespace" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson16.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson16.ArrayCalculator class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson16.Calculator class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson16_Calculator.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson16.Task1 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson16_Task1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson16.Task2 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson16_Task2.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson17 namespace" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson17.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson17.Task1 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson17_Task1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson18 namespace" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson18.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson18.Task1 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson18_Task1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson2 namespace" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson2.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson2.Colors enumeration" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Colors.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson2.Extension class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Extension.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson2.ICoordinates interface" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson2.ISize interface" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_ISize.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson2.LongRange enumeration" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_LongRange.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson2.Month enumeration" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson2.Rectangle structure" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Rectangle.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson2.Task1 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson2.Task1.Person structure" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task1_Person.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson2.Task2 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task2.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson2.Task3 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task3.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson2.Task4 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task4.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson2.Task5 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task5.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson4 namespace" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson4.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson4.Compare namespace" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson4_Compare.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson4.Compare.Compare class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Compare_Compare.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson4.Task1 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson4.Task2 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task2.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson4.Task3 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task3.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson4.Task4 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task4.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson4.Task5 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task5.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson5 namespace" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson5.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson5.Task1_2 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson5_Task1_2.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson5.Task3 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson5_Task3.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson7 namespace" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson7.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson7.IFigure(Of T) interface" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson7.IFigure&lt;T&gt; interface" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson7.Lesson7 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson7_Lesson7.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson7.Vertex structure" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson7_Vertex.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson8 namespace" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson8.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson8.Container class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Container.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson8.Person class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Person.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson8.Task1 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Task1.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson8.Task2 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Task2.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson8.Task3 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Task3.htm" />
+  <HelpKINode Title="TestProject.TaskLibrary.Tasks.Lesson8.Task4 class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Task4.htm" />
+  <HelpKINode Title="Vertex structure">
+    <HelpKINode Title="Vertex Structure" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson7_Vertex.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_Vertex__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson7_Vertex.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TestProject_TaskLibrary_Tasks_Lesson7_Vertex.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Vertex.Vertex constructor" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_Vertex__ctor.htm" />
+  <HelpKINode Title="Vertex.X property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson7_Vertex_X.htm" />
+  <HelpKINode Title="Vertex.Y property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson7_Vertex_Y.htm" />
+  <HelpKINode Title="White enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Colors.htm" />
+  <HelpKINode Title="Width property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ISize_Width.htm" />
+  <HelpKINode Title="X property">
+    <HelpKINode Title="Figure.X Property " Url="html/P_Lesson3_Figure_X.htm" />
+    <HelpKINode Title="Vertex.X Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson7_Vertex_X.htm" />
+  </HelpKINode>
+  <HelpKINode Title="X1 property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates_X1.htm" />
+  <HelpKINode Title="X2 property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates_X2.htm" />
+  <HelpKINode Title="XmlDeserialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_XmlDeserialization.htm" />
+  <HelpKINode Title="XmlSerialization method" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_XmlSerialization.htm" />
+  <HelpKINode Title="Y property">
+    <HelpKINode Title="Figure.Y Property " Url="html/P_Lesson3_Figure_Y.htm" />
+    <HelpKINode Title="Vertex.Y Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson7_Vertex_Y.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Y1 property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates_Y1.htm" />
+  <HelpKINode Title="Y2 property" Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates_Y2.htm" />
+  <HelpKINode Title="Yellow enumeration member" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Colors.htm" />
+</HelpKI>

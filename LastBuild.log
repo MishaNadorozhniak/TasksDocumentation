@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2019.4.14.0" projectFile="C:\Users\Misha Nadorozhniak\Desktop\doc.shfbproj" started="23.05.2019 13:18:18">
+<buildStep step="Initializing">
+Finding tools...
+The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
+Locating components in the following folder(s):
+    C:\Users\Misha Nadorozhniak\Desktop
+    C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\
+    C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\
+Using framework reflection data for &#39;Cross-platform (.NET Core/.NET Standard)&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Data\.NETFramework&#39;
+Using presentation style &#39;VS2013&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013&#39;
+Loading and initializing plug-ins...
+Lightweight Website Style Version 2019.4.14.0
+Copyright &#169; 2006-2019, Eric Woodruff, All Rights Reserved
+Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+-------------------------------
+Clearing any prior web/markdown output...
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: D:\EPAM_Course\.Net-Lab\TestProject.TaskLibrary\bin\Debug\netcoreapp2.1\TestProject.TaskLibrary.dll
+    Found assembly &#39;D:\EPAM_Course\.Net-Lab\TestProject.TaskLibrary\bin\Debug\netcoreapp2.1\TestProject.TaskLibrary.dll&#39;
+Source: D:\EPAM_Course\.Net-Lab\TestProject.TaskLibrary\bin\Debug\netcoreapp2.1\TestProject.TaskLibrary.xml
+
+Copying XML comments files
+    D:\EPAM_Course\.Net-Lab\TestProject.TaskLibrary\bin\Debug\netcoreapp2.1\TestProject.TaskLibrary.xml -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\TestProject.TaskLibrary.xml
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, English (United States))...
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+</plugIn>    Last step completed in 00:00:01,5082
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00,0200
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - GenerateRefInfo.proj]
+Build started 23.05.2019 13:18:28.
+Project &quot;C:\Users\Misha Nadorozhniak\Desktop\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
+PrepareForBuild:
+  Creating directory &quot;obj\Debug\&quot;.
+GenerateRefInfo:
+  MRefBuilder (v2019.4.14.0)
+  Copyright c 2006-2019, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2019, Eric Woodruff, All Rights Reserved.
+  No source code context base path specified.  Source context information is unavailable.
+  Loaded 1 assemblies for reflection and 1 dependency assemblies.
+MRefBuilder : warning : Ignoring unresolved assembly reference: System.Diagnostics.Debug (System.Diagnostics.Debug, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a) required by TestProject.TaskLibrary [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\GenerateRefInfo.proj]
+MRefBuilder : warning : Ignoring unresolved assembly reference: System.Collections (System.Collections, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a) required by TestProject.TaskLibrary [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\GenerateRefInfo.proj]
+MRefBuilder : warning : Ignoring unresolved assembly reference: System.Console (System.Console, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a) required by TestProject.TaskLibrary [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\GenerateRefInfo.proj]
+MRefBuilder : warning : Ignoring unresolved assembly reference: System.Xml.ReaderWriter (System.Xml.ReaderWriter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a) required by TestProject.TaskLibrary [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\GenerateRefInfo.proj]
+MRefBuilder : warning : Ignoring unresolved assembly reference: System.Runtime.Serialization.Primitives (System.Runtime.Serialization.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a) required by TestProject.TaskLibrary [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\GenerateRefInfo.proj]
+MRefBuilder : warning : Ignoring unresolved assembly reference: System.IO.FileSystem (System.IO.FileSystem, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a) required by TestProject.TaskLibrary [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\GenerateRefInfo.proj]
+  Wrote information on 18 namespaces, 65 types, and 190 members
+  Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
+  XslTransform (v2019.4.14.0)
+  Copyright c 2006-2019, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2019, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
+Done Building Project &quot;C:\Users\Misha Nadorozhniak\Desktop\Help\Working\GenerateRefInfo.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:31.84
+    Last step completed in 00:00:35,5771
+</buildStep>
+<buildStep step="TransformReflectionInfo">
+Transforming reflection output...
+[C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - TransformManifest.proj]
+Build started 23.05.2019 13:19:00.
+Project &quot;C:\Users\Misha Nadorozhniak\Desktop\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
+TransformManifest:
+  XslTransform (v2019.4.14.0)
+  Copyright c 2006-2019, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2019, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\ApplyVSDocModel.xsl&#39;.
+  Copying file from &quot;reflection.xml&quot; to &quot;reflection.ungrouped&quot;.
+  AddNamespaceGroups (v2019.4.14.0)
+  Copyright c 2006-2019, Eric Woodruff, All Rights Reserved
+  Added 2 namespace group entries
+  Copying file from &quot;reflection.xml&quot; to &quot;reflection.nofilenames&quot;.
+  XslTransform (v2019.4.14.0)
+  Copyright c 2006-2019, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2019, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\AddFilenames.xsl&#39;.
+    Unique name M_TestProject_TaskLibrary_Tasks_Lesson12_Car__ctor_1 generated for M:TestProject.TaskLibrary.Tasks.Lesson12.Car.#ctor(System.Int32,System.Decimal,System.Int32,System.Double,System.Int32)
+    Unique name M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Div_1 generated for M:TestProject.TaskLibrary.Tasks.Lesson16.ArrayCalculator.Div(System.Int32[],System.Int32[])
+    Unique name M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Mul_1 generated for M:TestProject.TaskLibrary.Tasks.Lesson16.ArrayCalculator.Mul(System.Int32[],System.Int32[])
+    Unique name M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Sub_1 generated for M:TestProject.TaskLibrary.Tasks.Lesson16.ArrayCalculator.Sub(System.Int32[],System.Int32[])
+    Unique name M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Sum_1 generated for M:TestProject.TaskLibrary.Tasks.Lesson16.ArrayCalculator.Sum(System.Int32[],System.Int32[])
+  XslTransform (v2019.4.14.0)
+  Copyright c 2006-2019, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2019, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
+Done Building Project &quot;C:\Users\Misha Nadorozhniak\Desktop\Help\Working\TransformManifest.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.15
+    Last step completed in 00:00:05,4867
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00,0669
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+No additional content to copy
+    Last step completed in 00:00:00,0000
+</buildStep>
+<buildStep step="MergeTablesOfContents">
+Merging conceptual and additional tables of contents...
+    Last step completed in 00:00:00,0000
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContents">
+Generating intermediate table of contents file...
+[C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - GenerateIntermediateTOC.proj]
+Build started 23.05.2019 13:19:06.
+Project &quot;C:\Users\Misha Nadorozhniak\Desktop\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
+GenerateIntermediateTOC:
+  XslTransform (v2019.4.14.0)
+  Copyright c 2006-2019, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2019, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
+Done Building Project &quot;C:\Users\Misha Nadorozhniak\Desktop\Help\Working\GenerateIntermediateTOC.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.50
+Generating conceptual content intermediate TOC file...
+    Last step completed in 00:00:00,9046
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    sandcastle.config
+    Last step completed in 00:00:01,4906
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+C:\Users\Misha Nadorozhniak\Desktop\Help\Working\sandcastle.config
+  Updating reference topic configurations.
+  No conceptual content.  Removing conceptual content components.
+    Last step completed in 00:00:00,0599
+</buildStep>
+<buildStep step="BuildTopics">
+Building help topics...
+[C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - BuildTopics.proj]
+Build started 23.05.2019 13:19:08.
+Project &quot;C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj&quot; on node 1 (default targets).
+BuildTopics:
+  BuildAssembler (v2019.4.14.0)
+  Copyright c 2006-2019, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2019, Eric Woodruff, All Rights Reserved.
+  Loading configuration...
+  Processing topics...
+BuildAssembler : warning : ShowMissingComponent: [N:Lesson3] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:Lesson3.Compare] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Lesson3.Compare.BubbleSort] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Lesson3.Compare.BubbleSort.Sort(System.Int32[])] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Lesson3.Compare.BubbleSort.Sort(System.Int32[])] Missing &lt;param name=&quot;array&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Lesson3.Compare.Compare] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Lesson3.Compare.Compare.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Lesson3.Compare.Compare.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Lesson3.Compare.OptimizedBubbleSort] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Lesson3.Compare.OptimizedBubbleSort.Sort(System.Int32[])] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Lesson3.Compare.OptimizedBubbleSort.Sort(System.Int32[])] Missing &lt;param name=&quot;array&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:Lesson3.Task1_4] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Lesson3.Task1_4.Task1_4.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Lesson3.Task1_4.Task1_4.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.IO.In] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.IO.In] Missing &lt;returns&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.IO.Out(System.String)] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.IO.Out(System.String)] Missing &lt;param name=&quot;output&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.IO.OutLn(System.String)] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.IO.OutLn(System.String)] Missing &lt;param name=&quot;output&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks.Lesson1] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Circle3.Area(System.Double)] Missing &lt;returns&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Circle3.CircleLength(System.Double)] Missing &lt;returns&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson1.Circle4] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Circle4.Area(System.Double)] Missing &lt;returns&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Circle4.CircleLength(System.Double)] Missing &lt;returns&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Rectangle1.#ctor(System.Double,System.Double,System.Double,System.Double)] Missing &lt;param name=&quot;x1&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Rectangle1.#ctor(System.Double,System.Double,System.Double,System.Double)] Missing &lt;param name=&quot;y1&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Rectangle1.#ctor(System.Double,System.Double,System.Double,System.Double)] Missing &lt;param name=&quot;x2&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Rectangle1.#ctor(System.Double,System.Double,System.Double,System.Double)] Missing &lt;param name=&quot;y2&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Rectangle1.Area] Missing &lt;returns&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Rectangle1.Perimeter] Missing &lt;returns&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Rectangle2.#ctor(System.Double,System.Double,System.Double,System.Double)] Missing &lt;param name=&quot;x1&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Rectangle2.#ctor(System.Double,System.Double,System.Double,System.Double)] Missing &lt;param name=&quot;y1&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Rectangle2.#ctor(System.Double,System.Double,System.Double,System.Double)] Missing &lt;param name=&quot;x2&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Rectangle2.#ctor(System.Double,System.Double,System.Double,System.Double)] Missing &lt;param name=&quot;y2&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Rectangle4.Area(System.Double,System.Double,System.Double,System.Double)] Missing &lt;returns&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Rectangle4.Perimeter(System.Double,System.Double,System.Double,System.Double)] Missing &lt;returns&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson1.Task1] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Task1.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Task1.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson1.Task2] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Task2.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Task2.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson1.Task3] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Task3.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Task3.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson1.Task4] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Task4.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Task4.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Task5.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Task5.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson1.Task5.ComplexNumber] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Task5.ComplexNumber.ComplexCartesian(System.Double,System.Double)] Missing &lt;returns&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson1.Task5.ComplexNumber.ComplexPolar(System.Double,System.Double)] Missing &lt;returns&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:TestProject.TaskLibrary.Tasks.Lesson1.Task5.ComplexNumber.Imaginary] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:TestProject.TaskLibrary.Tasks.Lesson1.Task5.ComplexNumber.Real] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks.Lesson10] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson10.Task1] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson10.Task1.Recursion] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson10.Task1.Recursion] Missing &lt;returns&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson10.Task1.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson10.Task1.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson10.Task2] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson10.Task2.GetValue(System.Int32[],System.Int32)] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson10.Task2.GetValue(System.Int32[],System.Int32)] Missing &lt;returns&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson10.Task2.GetValue(System.Int32[],System.Int32)] Missing &lt;param name=&quot;arr&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson10.Task2.GetValue(System.Int32[],System.Int32)] Missing &lt;param name=&quot;index&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson10.Task2.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson10.Task2.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson10.Task5] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson10.Task5.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson10.Task5.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks.Lesson11] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson11.Task1] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson11.Task1.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson11.Task1.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson11.Task2] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson11.Task2.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson11.Task2.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks.Lesson12] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson12.Task.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson12.Task.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks.Lesson13] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson13.Task1.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson13.Task1.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson13.Task2.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson13.Task2.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks.Lesson16] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson16.ArrayCalculator] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson16.Calculator] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson16.Task1.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson16.Task1.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson16.Task2.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson16.Task2.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks.Lesson17] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson17.Task1] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson17.Task1.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson17.Task1.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks.Lesson18] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson18.Task1] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson18.Task1.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson18.Task1.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks.Lesson2] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson2.ICoordinates] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson2.ISize] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:TestProject.TaskLibrary.Tasks.Lesson2.ISize.Height] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson2.ISize.Perimeter] Missing &lt;returns&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:TestProject.TaskLibrary.Tasks.Lesson2.ISize.Width] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson2.Rectangle] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson2.Task1.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson2.Task1.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson2.Task1.Person] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson2.Task2.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson2.Task2.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson2.Task3.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson2.Task3.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson2.Task4.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson2.Task4.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson2.Task5.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson2.Task5.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks.Lesson4] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson4.Task1.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson4.Task1.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson4.Task2.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson4.Task2.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson4.Task3.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson4.Task3.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson4.Task4.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson4.Task4.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson4.Task5.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson4.Task5.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks.Lesson4.Compare] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson4.Compare.Compare] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson4.Compare.Compare.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson4.Compare.Compare.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks.Lesson5] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson5.Task1_2.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson5.Task1_2.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson5.Task3.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson5.Task3.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks.Lesson7] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson7.Lesson7] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson7.Lesson7.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson7.Lesson7.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson7.Vertex.#ctor(System.Double,System.Double)] Missing &lt;param name=&quot;x&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson7.Vertex.#ctor(System.Double,System.Double)] Missing &lt;param name=&quot;y&quot;/&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:TestProject.TaskLibrary.Tasks.Lesson7.Vertex.X] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:TestProject.TaskLibrary.Tasks.Lesson7.Vertex.Y] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:TestProject.TaskLibrary.Tasks.Lesson8] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson8.Container] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:TestProject.TaskLibrary.Tasks.Lesson8.Container.Persons] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:TestProject.TaskLibrary.Tasks.Lesson8.Person] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:TestProject.TaskLibrary.Tasks.Lesson8.Person.Age] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:TestProject.TaskLibrary.Tasks.Lesson8.Person.Name] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:TestProject.TaskLibrary.Tasks.Lesson8.Person.PhoneNumber] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson8.Task1.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson8.Task1.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson8.Task2.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson8.Task2.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson8.Task3.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson8.Task3.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:TestProject.TaskLibrary.Tasks.Lesson8.Task4.Run] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TestProject.TaskLibrary.Tasks.Lesson8.Task4.Run] Unknown reference link target &#39;M:TestProject.Common.Core.Interfaces.IRunnable.Run&#39;. [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [G:TestProject.TaskLibrary] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [G:Lesson3] Missing &lt;summary&gt; documentation [C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj]
+  Processed 335 topic(s)
+  167 warning(s)
+  CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 3 of 15.
+  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 2 of 30.
+Done Building Project &quot;C:\Users\Misha Nadorozhniak\Desktop\Help\Working\BuildTopics.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:56.17
+    Last step completed in 00:00:56,9649
+</buildStep>
+<buildStep step="CombiningIntermediateTocFiles">
+Combining conceptual and API intermediate TOC files...
+    Last step completed in 00:00:00,1807
+</buildStep>
+<buildStep step="ExtractingHtmlInfo">
+Extracting HTML info for HTML Help 1 and/or website...
+[C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - ExtractHtmlInfo.proj]
+Sandcastle Help File Builder and Tools, version 2019.4.14.0
+Copyright c 2006-2019, Eric Woodruff, All Rights Reserved
+E-Mail: Eric@EWoodruff.us
+
+Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
+
+Processing website files in C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website
+Processed 335 HTML files
+Sorting keywords and generating See Also indices
+Saving website keyword index to C:\Users\Misha Nadorozhniak\Desktop\Help\Working\WebKI.xml
+Saving website table of contents to C:\Users\Misha Nadorozhniak\Desktop\Help\Working\WebTOC.xml
+    Last step completed in 00:00:28,0005
+</buildStep>
+<buildStep step="CopyStandardHelpContent">
+Copying standard help content...
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertCaution.png -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\AlertCaution.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertNote.png -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\AlertNote.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertSecurity.png -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\AlertSecurity.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CFW.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\CFW.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CodeExample.png -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\CodeExample.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\favicon.ico -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\favicon.ico
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privclass.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\privclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privdelegate.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\privdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privenumeration.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\privenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privevent.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\privevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privextension.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\privextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privfield.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\privfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privinterface.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\privinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privmethod.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\privmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privproperty.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\privproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privstructure.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\privstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protclass.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\protclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protdelegate.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\protdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protenumeration.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\protenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protevent.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\protevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protextension.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\protextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protfield.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\protfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protinterface.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\protinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protmethod.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\protmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protoperator.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\protoperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protproperty.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\protproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protstructure.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\protstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubclass.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\pubclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubdelegate.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\pubdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubenumeration.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\pubenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubevent.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\pubevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubextension.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\pubextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubfield.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\pubfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubinterface.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\pubinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubmethod.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\pubmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\puboperator.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\puboperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubproperty.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\pubproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubstructure.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\pubstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionCollapsed.png -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\SectionCollapsed.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionExpanded.png -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\SectionExpanded.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\slMobile.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\slMobile.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\static.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\static.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\xna.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\xna.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\scripts\branding.js -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\scripts\branding.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-cs-CZ.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-cs-CZ.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-de-DE.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-de-DE.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-en-US.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-en-US.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-es-ES.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-es-ES.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-fr-FR.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-fr-FR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Help1.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-Help1.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-HelpViewer.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-HelpViewer.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-it-IT.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-it-IT.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ja-JP.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-ja-JP.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ko-KR.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-ko-KR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pl-PL.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-pl-PL.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pt-BR.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-pt-BR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ru-RU.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-ru-RU.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-tr-TR.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-tr-TR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Website.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-Website.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-CN.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-zh-CN.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-TW.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding-zh-TW.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding.css -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\styles\branding.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\index.html -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\index.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\search.html -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\search.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.aspx -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\SearchHelp.aspx
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.inc.php -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\SearchHelp.inc.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.php -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\SearchHelp.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\Web.Config -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\Web.Config
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\html\GeneralError.htm -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\html\GeneralError.htm
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\html\PageNotFound.htm -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\html\PageNotFound.htm
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\Search.png -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\Search.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocClose.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\TocClose.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocCollapsed.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\TocCollapsed.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocExpanded.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\TocExpanded.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\icons\TocOpen.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\scripts\branding-Website.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\clipboard.min.js -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\scripts\clipboard.min.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-3.3.1.min.js -&gt; C:\Users\Misha Nadorozhniak\Desktop\Help\Working\Output\Website\scripts\jquery-3.3.1.min.js
+    Last step completed in 00:00:05,7673
+</buildStep>
+<buildStep step="GenerateHelpFormatTableOfContents">
+Generating website table of contents file...
+    Last step completed in 00:00:00,0000
+</buildStep>
+<buildStep step="GenerateFullTextIndex">
+Generating full-text index for the website...
+
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+Adding lightweight search and TOC elements to each topic...
+</plugIn>    Last step completed in 00:00:12,8883
+</buildStep>
+<buildStep step="CopyingWebsiteFiles">
+Copying website files to output folder...
+
+Copied 500 files
+Copied 596 files for the website content
+    Last step completed in 00:00:04,7994
+</buildStep>
+<buildStep step="CleanIntermediates">
+Removing intermediate files...
+    Last step completed in 00:00:00,5631
+</buildStep>
+<buildStep step="Completed">
+
+Build completed successfully at 23.05.2019 13:20:57.  Total time: 00:02:39,0473
+
+</buildStep>
+</shfbBuild>

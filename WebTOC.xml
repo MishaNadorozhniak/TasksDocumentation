@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="13537cef-1b97-4b9a-8377-ef2ad94235d2" Title="Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="e4950edd-3b1d-4872-9336-d038e7ae79a3" Title="Lesson3 Namespaces" Url="html/G_Lesson3.htm">
+      <HelpTOCNode Id="c53e94a0-75a5-46c2-8452-a12a65839c6b" Title="Lesson3" Url="html/N_Lesson3.htm">
+        <HelpTOCNode Id="3f307dd1-4416-4d81-bf49-f62ebf9c5e7b" Title="Figure Class" Url="html/T_Lesson3_Figure.htm">
+          <HelpTOCNode Title="Figure Constructor " Url="html/M_Lesson3_Figure__ctor.htm" />
+          <HelpTOCNode Id="b0ae4757-c275-407d-8b90-dc091e499aa8" Title="Figure Properties" Url="html/Properties_T_Lesson3_Figure.htm">
+            <HelpTOCNode Title="X Property " Url="html/P_Lesson3_Figure_X.htm" />
+            <HelpTOCNode Title="Y Property " Url="html/P_Lesson3_Figure_Y.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="3f8a17fe-7dc3-4114-af0a-169262b2915d" Title="Figure Methods" Url="html/Methods_T_Lesson3_Figure.htm">
+            <HelpTOCNode Title="Draw Method " Url="html/M_Lesson3_Figure_Draw.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="661e29a8-f190-4b39-b3dd-e4cbf6b2d915" Title="Rectangle Class" Url="html/T_Lesson3_Rectangle.htm">
+          <HelpTOCNode Title="Rectangle Constructor " Url="html/M_Lesson3_Rectangle__ctor.htm" />
+          <HelpTOCNode Title="Rectangle Properties" Url="html/Properties_T_Lesson3_Rectangle.htm" />
+          <HelpTOCNode Id="0a822e9b-c928-4a64-ab86-ca5e53a691f8" Title="Rectangle Methods" Url="html/Methods_T_Lesson3_Rectangle.htm">
+            <HelpTOCNode Title="Draw Method " Url="html/M_Lesson3_Rectangle_Draw.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="b311dbcc-66a1-423b-a625-18e609bfbf1d" Title="Square Class" Url="html/T_Lesson3_Square.htm">
+          <HelpTOCNode Title="Square Constructor " Url="html/M_Lesson3_Square__ctor.htm" />
+          <HelpTOCNode Title="Square Properties" Url="html/Properties_T_Lesson3_Square.htm" />
+          <HelpTOCNode Id="dc879589-d881-47fa-a3af-1cef8c55b975" Title="Square Methods" Url="html/Methods_T_Lesson3_Square.htm">
+            <HelpTOCNode Title="Draw Method " Url="html/M_Lesson3_Square_Draw.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b246f16b-98e6-47ba-8cff-7f9d44c73842" Title="Lesson3.Compare" Url="html/N_Lesson3_Compare.htm">
+        <HelpTOCNode Id="362c3208-fba9-4704-a088-59b6ce230540" Title="BubbleSort Class" Url="html/T_Lesson3_Compare_BubbleSort.htm">
+          <HelpTOCNode Title="BubbleSort Constructor " Url="html/M_Lesson3_Compare_BubbleSort__ctor.htm" />
+          <HelpTOCNode Id="03300c6a-d2d3-4e16-a773-10f31477ed72" Title="BubbleSort Methods" Url="html/Methods_T_Lesson3_Compare_BubbleSort.htm">
+            <HelpTOCNode Title="Sort Method " Url="html/M_Lesson3_Compare_BubbleSort_Sort.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="9994e684-9991-48f1-90f2-a302eb9662c6" Title="Compare Class" Url="html/T_Lesson3_Compare_Compare.htm">
+          <HelpTOCNode Title="Compare Constructor " Url="html/M_Lesson3_Compare_Compare__ctor.htm" />
+          <HelpTOCNode Id="cde6c1f6-6106-4ce9-bc94-12033df464cd" Title="Compare Methods" Url="html/Methods_T_Lesson3_Compare_Compare.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_Lesson3_Compare_Compare_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="c4eb1e4f-2e73-43a4-9ca8-d6f5a189ec23" Title="OptimizedBubbleSort Class" Url="html/T_Lesson3_Compare_OptimizedBubbleSort.htm">
+          <HelpTOCNode Title="OptimizedBubbleSort Constructor " Url="html/M_Lesson3_Compare_OptimizedBubbleSort__ctor.htm" />
+          <HelpTOCNode Id="7d49d8a4-c409-4d1e-a221-2f46274cb2a6" Title="OptimizedBubbleSort Methods" Url="html/Methods_T_Lesson3_Compare_OptimizedBubbleSort.htm">
+            <HelpTOCNode Title="Sort Method " Url="html/M_Lesson3_Compare_OptimizedBubbleSort_Sort.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a4a39106-ece0-4b1b-98a4-3cd471b053f7" Title="Lesson3.Task1_4" Url="html/N_Lesson3_Task1_4.htm">
+        <HelpTOCNode Id="5b4c46cb-9f0a-4ab4-b416-43bcaf8d4b68" Title="Task1_4 Class" Url="html/T_Lesson3_Task1_4_Task1_4.htm">
+          <HelpTOCNode Title="Task1_4 Constructor " Url="html/M_Lesson3_Task1_4_Task1_4__ctor.htm" />
+          <HelpTOCNode Id="fe0e6af2-10f9-4170-8ae3-788150d671df" Title="Task1_4 Methods" Url="html/Methods_T_Lesson3_Task1_4_Task1_4.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_Lesson3_Task1_4_Task1_4_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="53c30767-12a5-46aa-a0d0-49ecf1040edd" Title="TestProject.TaskLibrary Namespaces" Url="html/G_TestProject_TaskLibrary.htm">
+      <HelpTOCNode Id="12b77c02-727c-4cda-8913-ac99bfdbe109" Title="TestProject.TaskLibrary.Tasks" Url="html/N_TestProject_TaskLibrary_Tasks.htm">
+        <HelpTOCNode Id="a1d3fbfd-9543-43da-90ff-f833e5d4f8cd" Title="IO Class" Url="html/T_TestProject_TaskLibrary_Tasks_IO.htm">
+          <HelpTOCNode Title="IO Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_IO__ctor.htm" />
+          <HelpTOCNode Id="a6ecb4ae-0a77-48d2-aacc-20d16a31c43f" Title="IO Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_IO.htm">
+            <HelpTOCNode Title="In Method " Url="html/M_TestProject_TaskLibrary_Tasks_IO_In.htm" />
+            <HelpTOCNode Title="Out Method " Url="html/M_TestProject_TaskLibrary_Tasks_IO_Out.htm" />
+            <HelpTOCNode Title="OutLn Method " Url="html/M_TestProject_TaskLibrary_Tasks_IO_OutLn.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1da37483-be4a-4547-923b-086877ade253" Title="TestProject.TaskLibrary.Tasks.Lesson1" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson1.htm">
+        <HelpTOCNode Id="0c0a506d-c41a-436f-921d-fee7e18f4333" Title="Circle3 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Circle3.htm">
+          <HelpTOCNode Title="Circle3 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle3__ctor.htm" />
+          <HelpTOCNode Id="575269de-06d9-492f-a6de-3cf4f56bb6b8" Title="Circle3 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Circle3.htm">
+            <HelpTOCNode Title="Area Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle3_Area.htm" />
+            <HelpTOCNode Title="CircleLength Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle3_CircleLength.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="e6a71645-914a-4010-a33f-0cdccae535bc" Title="Circle4 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Circle4.htm">
+          <HelpTOCNode Id="8746688a-773f-47e0-83e6-4440d5f93877" Title="Circle4 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Circle4.htm">
+            <HelpTOCNode Title="Area Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle4_Area.htm" />
+            <HelpTOCNode Title="CircleLength Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Circle4_CircleLength.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="c8283ecf-94ae-487e-a4dd-8f3085976736" Title="Rectangle1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle1.htm">
+          <HelpTOCNode Title="Rectangle1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle1__ctor.htm" />
+          <HelpTOCNode Id="19072c7d-0bb5-4e67-8a3f-71bf2074b641" Title="Rectangle1 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle1.htm">
+            <HelpTOCNode Title="Area Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle1_Area.htm" />
+            <HelpTOCNode Title="Perimeter Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle1_Perimeter.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="b4116bb2-6041-4be2-a04f-714c2f3386ce" Title="Rectangle2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2.htm">
+          <HelpTOCNode Title="Rectangle2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2__ctor.htm" />
+          <HelpTOCNode Id="3f9d21ca-46a3-42d2-b051-ce1ad942d5e7" Title="Rectangle2 Properties" Url="html/Properties_T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2.htm">
+            <HelpTOCNode Title="Area Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2_Area.htm" />
+            <HelpTOCNode Title="Perimeter Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2_Perimeter.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Rectangle2 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c5b56c55-3094-4b05-b39b-1b871107c7d3" Title="Rectangle4 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle4.htm">
+          <HelpTOCNode Id="0e27bf8d-4b45-4f55-b819-bbc4c997fb11" Title="Rectangle4 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle4.htm">
+            <HelpTOCNode Title="Area Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle4_Area.htm" />
+            <HelpTOCNode Title="Perimeter Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Rectangle4_Perimeter.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="cf5aeb4c-5c17-455b-ad94-34a760616be0" Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task1.htm">
+          <HelpTOCNode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task1__ctor.htm" />
+          <HelpTOCNode Id="947b1dc2-832b-451c-825e-7dcf4f04ec99" Title="Task1 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Task1.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task1_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="088e7afe-e245-49ee-b06d-b414794f1839" Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task2.htm">
+          <HelpTOCNode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task2__ctor.htm" />
+          <HelpTOCNode Id="934752eb-267b-4a71-ab1e-a6328c9b020e" Title="Task2 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Task2.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task2_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="ead238d7-069f-4b8b-98e5-ff9f39d8ffac" Title="Task3 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task3.htm">
+          <HelpTOCNode Title="Task3 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task3__ctor.htm" />
+          <HelpTOCNode Id="e3dded95-e7b6-4a5c-b450-cfdd5f35f628" Title="Task3 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Task3.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task3_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="e955504d-c416-4966-9fdf-55b8a2349ac0" Title="Task4 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task4.htm">
+          <HelpTOCNode Title="Task4 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task4__ctor.htm" />
+          <HelpTOCNode Id="e5172dd5-cc4b-42f3-b530-e05cc3e400a6" Title="Task4 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Task4.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task4_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="62e127fa-1e39-41aa-b6c5-806426dd82e9" Title="Task5 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task5.htm">
+          <HelpTOCNode Title="Task5 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5__ctor.htm" />
+          <HelpTOCNode Id="962156ff-af06-45e8-8594-f7ac404ca2d1" Title="Task5 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Task5.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="a722e9f9-9af5-4576-8251-3c2c8633f14d" Title="Task5.ComplexNumber Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber.htm">
+          <HelpTOCNode Id="e60464d5-fbc4-4ece-a59e-02292aed98eb" Title="ComplexNumber Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber.htm">
+            <HelpTOCNode Title="ComplexCartesian Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_ComplexCartesian.htm" />
+            <HelpTOCNode Title="ComplexPolar Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_ComplexPolar.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="cdc89c53-57d5-4458-ba2b-ab681c5bd6ec" Title="ComplexNumber Operators" Url="html/Operators_T_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber.htm">
+            <HelpTOCNode Title="Division Operator " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_op_Division.htm" />
+            <HelpTOCNode Title="Multiply Operator " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_op_Multiply.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="f7d310a0-2ab6-41b0-a451-fea27054c596" Title="ComplexNumber Fields" Url="html/Fields_T_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber.htm">
+            <HelpTOCNode Title="Imaginary Field" Url="html/F_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_Imaginary.htm" />
+            <HelpTOCNode Title="Real Field" Url="html/F_TestProject_TaskLibrary_Tasks_Lesson1_Task5_ComplexNumber_Real.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c3bdf783-97d6-40f9-b1f0-504cdfacc7e4" Title="TestProject.TaskLibrary.Tasks.Lesson10" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson10.htm">
+        <HelpTOCNode Id="fe96cf50-d8e9-46d4-9db9-a521b9d8de3b" Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson10_Task1.htm">
+          <HelpTOCNode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task1__ctor.htm" />
+          <HelpTOCNode Id="ecdc8209-fbe5-43a8-a564-c9d7cc4f51d4" Title="Task1 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson10_Task1.htm">
+            <HelpTOCNode Title="Recursion Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task1_Recursion.htm" />
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task1_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="9247f33c-0fd0-4406-a975-cc47ac82a810" Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson10_Task2.htm">
+          <HelpTOCNode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task2__ctor.htm" />
+          <HelpTOCNode Id="b1fc4ef1-c9cb-42e6-8be1-c2028826d43a" Title="Task2 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson10_Task2.htm">
+            <HelpTOCNode Title="GetValue Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task2_GetValue.htm" />
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task2_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="1bf08268-a626-4227-9a36-03a76a385b71" Title="Task5 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson10_Task5.htm">
+          <HelpTOCNode Title="Task5 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task5__ctor.htm" />
+          <HelpTOCNode Id="0179f1ba-f8a8-4e17-973c-a3b3edc531ad" Title="Task5 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson10_Task5.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson10_Task5_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="93530a15-3045-4e90-b295-bb44c9cddffe" Title="TestProject.TaskLibrary.Tasks.Lesson11" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson11.htm">
+        <HelpTOCNode Id="d667687d-c331-4fdb-85c5-a8ee6b1fd3d8" Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson11_Task1.htm">
+          <HelpTOCNode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson11_Task1__ctor.htm" />
+          <HelpTOCNode Id="b8818784-ab41-41a4-a1cc-6374313777aa" Title="Task1 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson11_Task1.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson11_Task1_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="a6e7aa6c-cc6a-42ec-b7b7-5619ca799ff4" Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson11_Task2.htm">
+          <HelpTOCNode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson11_Task2__ctor.htm" />
+          <HelpTOCNode Id="ffa4b16f-1023-4a5a-ace6-286cf94ef98d" Title="Task2 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson11_Task2.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson11_Task2_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="95506fd6-894c-4e13-a4a6-529251bc543b" Title="TestProject.TaskLibrary.Tasks.Lesson12" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson12.htm">
+        <HelpTOCNode Id="ec093dee-a5b3-4250-bab6-5afc69df99a4" Title="Car Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson12_Car.htm">
+          <HelpTOCNode Id="1d5912ec-11fb-4f65-9ab3-a234e9870944" Title="Car Constructor " Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson12_Car__ctor.htm">
+            <HelpTOCNode Title="Car Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Car__ctor.htm" />
+            <HelpTOCNode Title="Car Constructor (Int32, Decimal, Int32, Double, Int32)" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Car__ctor_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="2ea25feb-6377-4aa6-a81a-fdcbdf448ddb" Title="Car Properties" Url="html/Properties_T_TestProject_TaskLibrary_Tasks_Lesson12_Car.htm">
+            <HelpTOCNode Title="Consumption Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Consumption.htm" />
+            <HelpTOCNode Title="Drive Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Drive.htm" />
+            <HelpTOCNode Title="Id Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Id.htm" />
+            <HelpTOCNode Title="Price Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Price.htm" />
+            <HelpTOCNode Title="Seats Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson12_Car_Seats.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="19501712-864a-43cf-a0c4-e745d6ec330a" Title="Car Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson12_Car.htm">
+            <HelpTOCNode Title="Show Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Car_Show.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="a51507c2-9370-4a07-8a8a-caa4a02a5e50" Title="Car Fields" Url="html/Fields_T_TestProject_TaskLibrary_Tasks_Lesson12_Car.htm">
+            <HelpTOCNode Title="Drives Field" Url="html/F_TestProject_TaskLibrary_Tasks_Lesson12_Car_Drives.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="b42287c2-8e76-4f16-badf-d87ae35399fc" Title="Serialization(T) Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1.htm">
+          <HelpTOCNode Title="Serialization(T) Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1__ctor.htm" />
+          <HelpTOCNode Id="af040aed-1068-489f-92a6-315550360a71" Title="Serialization(T) Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1.htm">
+            <HelpTOCNode Title="BinaryDeserialization Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_BinaryDeserialization.htm" />
+            <HelpTOCNode Title="BinarySerialization Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_BinarySerialization.htm" />
+            <HelpTOCNode Title="JsonDeserialization Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_JsonDeserialization.htm" />
+            <HelpTOCNode Title="JsonSerialization Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_JsonSerialization.htm" />
+            <HelpTOCNode Title="XmlDeserialization Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_XmlDeserialization.htm" />
+            <HelpTOCNode Title="XmlSerialization Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Serialization_1_XmlSerialization.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="96cd0b95-9b82-4e58-b899-20db41a35e4d" Title="Task Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson12_Task.htm">
+          <HelpTOCNode Title="Task Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Task__ctor.htm" />
+          <HelpTOCNode Id="4c8cbaee-9198-47f8-9a90-2bf00fb05bbf" Title="Task Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson12_Task.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson12_Task_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d7430601-dea4-4a0b-bcb2-b1aad68eb403" Title="TestProject.TaskLibrary.Tasks.Lesson13" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson13.htm">
+        <HelpTOCNode Id="0cfe2034-4dbc-4aa8-b61c-b01c55063736" Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson13_Task1.htm">
+          <HelpTOCNode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson13_Task1__ctor.htm" />
+          <HelpTOCNode Id="86002562-e506-40a0-83d6-b5bc24a7daa8" Title="Task1 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson13_Task1.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson13_Task1_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="9e06ff5f-c2fd-478b-a981-91472f2c95b7" Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson13_Task2.htm">
+          <HelpTOCNode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson13_Task2__ctor.htm" />
+          <HelpTOCNode Id="be722bf2-9b38-4758-9abc-23e15e02764f" Title="Task2 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson13_Task2.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson13_Task2_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b33dde78-edf8-4dde-a27c-39ae26ab79d0" Title="TestProject.TaskLibrary.Tasks.Lesson16" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson16.htm">
+        <HelpTOCNode Id="d10f1d23-93d9-4ec2-ba46-238adb318f66" Title="ArrayCalculator Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator.htm">
+          <HelpTOCNode Title="ArrayCalculator Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator__ctor.htm" />
+          <HelpTOCNode Id="086a281b-c129-4f1c-a981-a27531fab646" Title="ArrayCalculator Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator.htm">
+            <HelpTOCNode Id="4c3cd7ed-5677-4d7f-af65-01cc909aebfe" Title="Div Method " Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Div.htm">
+              <HelpTOCNode Title="Div Method (Int32, Int32)" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Div.htm" />
+              <HelpTOCNode Title="Div Method (Int32[], Int32[])" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Div_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="3b993c0e-692e-48f1-8c8e-a946608be5aa" Title="Mul Method " Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Mul.htm">
+              <HelpTOCNode Title="Mul Method (Int32, Int32)" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Mul.htm" />
+              <HelpTOCNode Title="Mul Method (Int32[], Int32[])" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Mul_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="8b5f71c9-8703-4f63-8f49-3ceb11106140" Title="Sub Method " Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Sub.htm">
+              <HelpTOCNode Title="Sub Method (Int32, Int32)" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Sub.htm" />
+              <HelpTOCNode Title="Sub Method (Int32[], Int32[])" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Sub_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="2340154c-db0d-4b55-b601-861f90f4b95a" Title="Sum Method " Url="html/Overload_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Sum.htm">
+              <HelpTOCNode Title="Sum Method (Int32, Int32)" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Sum.htm" />
+              <HelpTOCNode Title="Sum Method (Int32[], Int32[])" Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_ArrayCalculator_Sum_1.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="b93ed072-a458-46a1-ac35-93f8ee32b4a9" Title="Calculator Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson16_Calculator.htm">
+          <HelpTOCNode Title="Calculator Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator__ctor.htm" />
+          <HelpTOCNode Id="f9428334-70eb-43f6-b7a6-f63b92237a4c" Title="Calculator Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson16_Calculator.htm">
+            <HelpTOCNode Title="Div Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator_Div.htm" />
+            <HelpTOCNode Title="Mul Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator_Mul.htm" />
+            <HelpTOCNode Title="Sub Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator_Sub.htm" />
+            <HelpTOCNode Title="Sum Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Calculator_Sum.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="fda2addf-5e42-419b-ab2f-33f1469cde33" Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson16_Task1.htm">
+          <HelpTOCNode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Task1__ctor.htm" />
+          <HelpTOCNode Id="5560a840-207c-4370-8505-759f5ce09f67" Title="Task1 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson16_Task1.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Task1_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="612e34bd-be6b-476a-acc1-1d0a1cb4fcc5" Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson16_Task2.htm">
+          <HelpTOCNode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Task2__ctor.htm" />
+          <HelpTOCNode Id="b3fd495c-edda-4991-be53-770c0c439bbb" Title="Task2 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson16_Task2.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson16_Task2_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2f1b511b-2fec-4e04-9749-6873dfe4c944" Title="TestProject.TaskLibrary.Tasks.Lesson17" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson17.htm">
+        <HelpTOCNode Id="c2a4f5fa-90af-41ee-881c-e0d2469d844b" Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson17_Task1.htm">
+          <HelpTOCNode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson17_Task1__ctor.htm" />
+          <HelpTOCNode Id="b1e8297f-321f-4352-8bd4-d58b4b2a4dd2" Title="Task1 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson17_Task1.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson17_Task1_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8e6b3a59-46ea-4cfa-b692-420bf4e19819" Title="TestProject.TaskLibrary.Tasks.Lesson18" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson18.htm">
+        <HelpTOCNode Id="257e8250-e844-4d19-85d4-e3bc1f45b332" Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson18_Task1.htm">
+          <HelpTOCNode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson18_Task1__ctor.htm" />
+          <HelpTOCNode Id="bb5e9bb9-9fa7-47bb-aab9-5ce853aefc03" Title="Task1 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson18_Task1.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson18_Task1_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fb2d8aca-49bc-4b3f-887a-14b693f3f64d" Title="TestProject.TaskLibrary.Tasks.Lesson2" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson2.htm">
+        <HelpTOCNode Title="Colors Enumeration" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Colors.htm" />
+        <HelpTOCNode Id="7e8d3cfa-e51f-4d25-be89-f3700f5b377d" Title="Extension Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Extension.htm">
+          <HelpTOCNode Id="1f6c246a-599d-4e1b-ad0c-d9a4a3deaf9e" Title="Extension Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Extension.htm">
+            <HelpTOCNode Title="SortedEnum Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Extension_SortedEnum.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="bc2e5e65-cf1d-4a3d-96a6-71569c896647" Title="ICoordinates Interface" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates.htm">
+          <HelpTOCNode Id="e44d7918-3b67-4d9a-9ffb-5b541759c3ac" Title="ICoordinates Properties" Url="html/Properties_T_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates.htm">
+            <HelpTOCNode Title="X1 Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates_X1.htm" />
+            <HelpTOCNode Title="X2 Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates_X2.htm" />
+            <HelpTOCNode Title="Y1 Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates_Y1.htm" />
+            <HelpTOCNode Title="Y2 Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ICoordinates_Y2.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="f59d7cdc-32e6-4c07-83ca-c806a5c95bc0" Title="ISize Interface" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_ISize.htm">
+          <HelpTOCNode Id="4bc02333-132c-4dfb-88d0-28d5f8665deb" Title="ISize Properties" Url="html/Properties_T_TestProject_TaskLibrary_Tasks_Lesson2_ISize.htm">
+            <HelpTOCNode Title="Height Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ISize_Height.htm" />
+            <HelpTOCNode Title="Width Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson2_ISize_Width.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="300d0bc1-dafe-4aa2-b241-0cf2c6ff8033" Title="ISize Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_ISize.htm">
+            <HelpTOCNode Title="Perimeter Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_ISize_Perimeter.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Title="LongRange Enumeration" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_LongRange.htm" />
+        <HelpTOCNode Title="Month Enumeration" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Month.htm" />
+        <HelpTOCNode Id="59f937b1-ca41-4cc1-8312-54a2295500c2" Title="Rectangle Structure" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Rectangle.htm">
+          <HelpTOCNode Title="Rectangle Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Rectangle__ctor.htm" />
+          <HelpTOCNode Id="03343bea-b16d-4587-82ac-510dc76ff3ed" Title="Rectangle Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Rectangle.htm">
+            <HelpTOCNode Title="Perimeter Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Rectangle_Perimeter.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="ab2f07ac-925d-4e00-930b-54e2a69fd833" Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task1.htm">
+          <HelpTOCNode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task1__ctor.htm" />
+          <HelpTOCNode Id="b96d6004-a1fc-473e-9539-11177ee1be4c" Title="Task1 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Task1.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task1_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="68b26ecf-2f9b-47c3-b5a9-6495537f6757" Title="Task1.Person Structure" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task1_Person.htm">
+          <HelpTOCNode Title="Task1.Person Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task1_Person__ctor.htm" />
+          <HelpTOCNode Id="4ced95c2-9834-492d-8776-e155e1fff45c" Title="Person Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Task1_Person.htm">
+            <HelpTOCNode Title="AgeIs Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task1_Person_AgeIs.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="f9025cc5-dc63-452c-944d-7501152b5912" Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task2.htm">
+          <HelpTOCNode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task2__ctor.htm" />
+          <HelpTOCNode Id="bef300e9-ab4f-419a-9827-30c64b21276f" Title="Task2 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Task2.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task2_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="f1692203-f43f-4879-a973-1a5782247a8b" Title="Task3 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task3.htm">
+          <HelpTOCNode Title="Task3 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task3__ctor.htm" />
+          <HelpTOCNode Id="1fb3ce95-e5af-4d6e-a8e5-e5c01e9b0bcc" Title="Task3 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Task3.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task3_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="440953d2-9067-41e3-b4b7-2aae6fb330e4" Title="Task4 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task4.htm">
+          <HelpTOCNode Title="Task4 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task4__ctor.htm" />
+          <HelpTOCNode Id="85f2b874-f245-436b-9f8d-f1d4669f6b3c" Title="Task4 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Task4.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task4_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="3946e81a-550f-4c01-9d15-14a54604e6e7" Title="Task5 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson2_Task5.htm">
+          <HelpTOCNode Title="Task5 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task5__ctor.htm" />
+          <HelpTOCNode Id="74ac44f1-cb33-44f1-94c1-adbac8161b86" Title="Task5 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson2_Task5.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson2_Task5_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9f688adb-7e44-4dad-89f4-8fb35fc934c4" Title="TestProject.TaskLibrary.Tasks.Lesson4" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson4.htm">
+        <HelpTOCNode Id="8e6edf8d-04f0-4792-bf23-7b192571c6b3" Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task1.htm">
+          <HelpTOCNode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task1__ctor.htm" />
+          <HelpTOCNode Id="7724595b-140d-48af-9534-dc0b6bfc5215" Title="Task1 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson4_Task1.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task1_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="8f0ff43c-6fdc-4013-9cc8-e105518bb522" Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task2.htm">
+          <HelpTOCNode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task2__ctor.htm" />
+          <HelpTOCNode Id="d641ea04-4213-460c-8011-aec61fa37f1d" Title="Task2 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson4_Task2.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task2_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="e793ece3-097c-461e-879c-ccb0425e83f4" Title="Task3 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task3.htm">
+          <HelpTOCNode Title="Task3 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task3__ctor.htm" />
+          <HelpTOCNode Id="fb8e9650-c452-4e88-bae7-3d68aff92ba9" Title="Task3 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson4_Task3.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task3_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="c0d6fd46-04e7-4104-be42-5b7064fc7448" Title="Task4 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task4.htm">
+          <HelpTOCNode Title="Task4 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task4__ctor.htm" />
+          <HelpTOCNode Id="fb9a437f-aee8-4bb0-9a5a-12b12aef5c42" Title="Task4 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson4_Task4.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task4_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="565c93f1-3977-4ab7-b518-d17d5c2f67fc" Title="Task5 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Task5.htm">
+          <HelpTOCNode Title="Task5 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task5__ctor.htm" />
+          <HelpTOCNode Id="eec8493e-8095-4b6d-aecf-c1a0989c4e4c" Title="Task5 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson4_Task5.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Task5_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="aeef5843-fff1-4fcd-9568-7edf633e90d9" Title="TestProject.TaskLibrary.Tasks.Lesson4.Compare" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson4_Compare.htm">
+        <HelpTOCNode Id="8b916852-ece3-4776-b3fa-e7f0cace4295" Title="Compare Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson4_Compare_Compare.htm">
+          <HelpTOCNode Title="Compare Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Compare_Compare__ctor.htm" />
+          <HelpTOCNode Id="d32bbf0a-5588-476d-986d-d12039da7f05" Title="Compare Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson4_Compare_Compare.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson4_Compare_Compare_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4a3bf693-8823-42ff-b350-74420199da8a" Title="TestProject.TaskLibrary.Tasks.Lesson5" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson5.htm">
+        <HelpTOCNode Id="4ea8dbee-d05b-4727-86c0-bfa3572bab7e" Title="Task1_2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson5_Task1_2.htm">
+          <HelpTOCNode Title="Task1_2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson5_Task1_2__ctor.htm" />
+          <HelpTOCNode Id="fd7a4452-e093-4640-be11-4159c1e5dbd9" Title="Task1_2 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson5_Task1_2.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson5_Task1_2_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="16389311-3811-4ec5-b304-4cde42fd229b" Title="Task3 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson5_Task3.htm">
+          <HelpTOCNode Title="Task3 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson5_Task3__ctor.htm" />
+          <HelpTOCNode Id="059f0f13-f172-4186-a401-f5888f794121" Title="Task3 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson5_Task3.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson5_Task3_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2d50e995-b236-4765-adaa-aea74ba3ad8a" Title="TestProject.TaskLibrary.Tasks.Lesson7" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson7.htm">
+        <HelpTOCNode Id="7695b16c-317b-4f30-8f4e-c90ab2fcbeff" Title="IFigure(T) Interface" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1.htm">
+          <HelpTOCNode Id="c72fecb7-0b67-4f31-b34f-3a3a110cf3f5" Title="IFigure(T) Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1.htm">
+            <HelpTOCNode Title="BuildTwoInOne Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_BuildTwoInOne.htm" />
+            <HelpTOCNode Title="Create Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Create.htm" />
+            <HelpTOCNode Title="Intersection Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Intersection.htm" />
+            <HelpTOCNode Title="Move Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Move.htm" />
+            <HelpTOCNode Title="Show Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_IFigure_1_Show.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="383989a7-30f0-42b4-ac63-24b920195ef0" Title="Lesson7 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson7_Lesson7.htm">
+          <HelpTOCNode Title="Lesson7 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_Lesson7__ctor.htm" />
+          <HelpTOCNode Id="64f33490-502e-4c72-9de6-9026824517f1" Title="Lesson7 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson7_Lesson7.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_Lesson7_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="534ceb48-5003-4380-8b08-e423445d7871" Title="Vertex Structure" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson7_Vertex.htm">
+          <HelpTOCNode Title="Vertex Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson7_Vertex__ctor.htm" />
+          <HelpTOCNode Id="cae199db-3380-4be7-b801-1722ebf23ef7" Title="Vertex Properties" Url="html/Properties_T_TestProject_TaskLibrary_Tasks_Lesson7_Vertex.htm">
+            <HelpTOCNode Title="X Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson7_Vertex_X.htm" />
+            <HelpTOCNode Title="Y Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson7_Vertex_Y.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Vertex Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson7_Vertex.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="cedede76-1faf-45a2-855a-2693e10282d7" Title="TestProject.TaskLibrary.Tasks.Lesson8" Url="html/N_TestProject_TaskLibrary_Tasks_Lesson8.htm">
+        <HelpTOCNode Id="c1adfe35-6777-4902-9640-32f46c576bd0" Title="Container Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Container.htm">
+          <HelpTOCNode Title="Container Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Container__ctor.htm" />
+          <HelpTOCNode Title="Container Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson8_Container.htm" />
+          <HelpTOCNode Id="464fd956-6bf8-4bed-a703-ab667db05461" Title="Container Fields" Url="html/Fields_T_TestProject_TaskLibrary_Tasks_Lesson8_Container.htm">
+            <HelpTOCNode Title="Persons Field" Url="html/F_TestProject_TaskLibrary_Tasks_Lesson8_Container_Persons.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="c3103257-3fb7-4b31-9f62-c056b524ac90" Title="Person Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Person.htm">
+          <HelpTOCNode Title="Person Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Person__ctor.htm" />
+          <HelpTOCNode Id="e976afd5-6895-4e4a-a5aa-1584656e57b7" Title="Person Properties" Url="html/Properties_T_TestProject_TaskLibrary_Tasks_Lesson8_Person.htm">
+            <HelpTOCNode Title="Age Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson8_Person_Age.htm" />
+            <HelpTOCNode Title="Name Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson8_Person_Name.htm" />
+            <HelpTOCNode Title="PhoneNumber Property " Url="html/P_TestProject_TaskLibrary_Tasks_Lesson8_Person_PhoneNumber.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Person Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson8_Person.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="fdc16dbe-857b-4a31-a84c-d12ce80a02ae" Title="Task1 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Task1.htm">
+          <HelpTOCNode Title="Task1 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task1__ctor.htm" />
+          <HelpTOCNode Id="11917017-b4ba-46e9-8069-d4b4431331df" Title="Task1 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson8_Task1.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task1_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="0e619e59-d812-4b1e-8ca9-c1c4f59d4308" Title="Task2 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Task2.htm">
+          <HelpTOCNode Title="Task2 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task2__ctor.htm" />
+          <HelpTOCNode Id="8a8c52d5-b14c-48c2-aab0-d9f0a351d0ab" Title="Task2 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson8_Task2.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task2_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="49576f95-3598-4738-bff1-257192d85e3a" Title="Task3 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Task3.htm">
+          <HelpTOCNode Title="Task3 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task3__ctor.htm" />
+          <HelpTOCNode Id="8042ecbd-32c0-4b90-a654-f1666311d02a" Title="Task3 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson8_Task3.htm">
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task3_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="e2852384-4b56-49ce-abbe-b470d0c45c17" Title="Task4 Class" Url="html/T_TestProject_TaskLibrary_Tasks_Lesson8_Task4.htm">
+          <HelpTOCNode Title="Task4 Constructor " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4__ctor.htm" />
+          <HelpTOCNode Id="9c21a210-276c-4489-9b7e-93742751e259" Title="Task4 Methods" Url="html/Methods_T_TestProject_TaskLibrary_Tasks_Lesson8_Task4.htm">
+            <HelpTOCNode Title="DisplayPage Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4_DisplayPage.htm" />
+            <HelpTOCNode Title="Remove Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4_Remove.htm" />
+            <HelpTOCNode Title="Rev Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4_Rev.htm" />
+            <HelpTOCNode Title="Run Method " Url="html/M_TestProject_TaskLibrary_Tasks_Lesson8_Task4_Run.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
